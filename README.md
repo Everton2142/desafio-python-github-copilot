@@ -10,7 +10,7 @@ Uma ressalva é que a ideia originária do desafio seria utilizar o **GitHub Cop
 
 ## Objetivos
 
-**Observação:** cada ponto dos objetivos é um arquivo distinto.
+**Observação:** cada um dos objetivos é um arquivo distinto.
 
 ### 1 - Concatenação de dados
 
@@ -26,7 +26,7 @@ O código deverá solicitar uma string e um número inteiro como entrada. Após 
 
 ### 3 - Operações matemáticas simples
 
-Será necessário que haja uma solicitação de dois números, havendo depois uma operação simples entre eles.
+Será necessário que haja uma solicitação de dois números inteiros, havendo depois a realização das 4 operações básicas da matemática entre esses dois números.
 
 ------
 
@@ -36,7 +36,7 @@ Como entrada, um número inteiro deve ser informado e então o código deve veri
 
 ------
 
-### 5 - Cálculo da média de notas
+### 5 - Cálculo de média aritmética de notas
 
 O usuário deverá inserir 3 notas fornecidas e o código deve fazer o cálculo da média.
 
